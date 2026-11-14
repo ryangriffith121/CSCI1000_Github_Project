@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome!
 
 ## Introduction:
@@ -112,3 +113,6 @@ Your group will have the freedom to decide how to style your web pages. You can 
     Please paste the link of your Netlify-generated URL in the comments of your <code> index.js </code> file.
 
 Disclaimer -- Please make sure to collaborate with your team and always run git pull before working on a new feature. git pull will help ensure that you are working on the most updated code base of your project and help prevent merge errors in the future.
+=======
+# CSCI1000_Github_Project
+>>>>>>> 45cae02a42c197974775e8a2227be74bdd9933ce
