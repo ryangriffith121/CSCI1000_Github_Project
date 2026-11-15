@@ -15,8 +15,8 @@ export default function examplePage() {
           />
 
           <p className='description'>
-            Hey I am your friendly neighbourhood Spider Man. My real name is Tom
-            Holland. I am an actor but mostly I fight villains and juggle high school.
+            Hey I am your friendly neighbourhood Spider Man. My real name is Wyatt Strippoli.
+            I am an actor but mostly I fight villains and juggle high school.
             I am just your average student – well, maybe not so average. 
             You see, I've got some incredible powers, like superhuman strength, agility, 
             and the ability to shoot webs from my wrists. With great power comes great 
