@@ -6,16 +6,11 @@ export default function examplePage() {
 
         <main>
           <div className='underline'>
-            <h1 className='title'>Hey, I'm Spider man. </h1>
+            <h1 className='title'>Hey, Ryan Griffith. </h1>
           </div>
-          <img
-            className='pic'
-            src='https://i.postimg.cc/qR2VgDkd/spiderman.jpg'
-            alt='tom holland'
-          />
 
           <p className='description'>
-            Hey I am your friendly neighbourhood Spider Man. My real name is Ryan Griffith. I am an actor but mostly I fight villains and juggle high school.
+            Hey I am your friendly neighbourhood Ryan Griffith. My real name is Ryan Griffith. I am an actor but mostly I fight villains and juggle college.
             I am just your average student – well, maybe not so average. 
             You see, I've got some incredible powers, like superhuman strength, agility, 
             and the ability to shoot webs from my wrists. With great power comes great 
