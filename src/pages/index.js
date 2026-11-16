@@ -22,8 +22,23 @@ export default function Home() {
         <code>src/page/teamMemberName.js</code>
 
         <div className='grid'>
-          <a href='/TomHolland ' className='card'>
-            <h3>Example About Me Page &rarr;</h3>
+          <a href='/Ryan ' className='card'>
+            <h3>Ryan's Page &rarr;</h3>
+            <p>Click here to navigate to an example page</p>
+          </a>
+
+          <a href='/Wyatt ' className='card'>
+            <h3>Wyatt's Page &rarr;</h3>
+            <p>Click here to navigate to an example page</p>
+          </a>
+
+          <a href='/Dominik ' className='card'>
+            <h3>Dominik's Page &rarr;</h3>
+            <p>Click here to navigate to an example page</p>
+          </a>
+
+          <a href='/Ayden ' className='card'>
+            <h3>Ayden's Page &rarr;</h3>
             <p>Click here to navigate to an example page</p>
           </a>
 
